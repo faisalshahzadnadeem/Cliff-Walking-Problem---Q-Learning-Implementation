@@ -27,7 +27,7 @@ pip install gym numpy matplotlib
 3. Run the following command to execute the Q-Learning algorithm:
 
 ```bash
-python cliff_walking_q_learning.py
+cliff_walking_q_learning.ipnb
 ```
 
 ## ⚙️ Q-Learning Algorithm Explained
